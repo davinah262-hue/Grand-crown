@@ -1,0 +1,176 @@
+{
+  "settings": {
+    "brand": "Grand Crown",
+    "currency": "UGX",
+    "welcomeBonus": 2100,
+    "checkinBonus": 100,
+    "minTopup": 22000,
+    "minWithdrawal": 3000,
+    "withdrawalFeePercent": 12,
+    "withdrawalStart": "10:00",
+    "withdrawalEnd": "17:00",
+    "referralL1": 10,
+    "referralL2": 0,
+    "referralL3": 0,
+    "support": "@Grandcrown01",
+    "telegram": "https://t.me/+zNDnaz_xKfdiMTlk",
+    "paymentMethod": "PesaJet",
+    "paymentMessage": "Complete your payment securely, then return here and submit your transaction/reference number.",
+    "paymentCheckoutUrl": "https://pay.pesajet.com/pay/d9c18ef87c"
+  },
+  "products": [
+    {
+      "id": "PROD-1",
+      "name": "Garden View",
+      "price": 19000,
+      "daily": 912,
+      "total": 34656,
+      "days": 38
+    },
+    {
+      "id": "PROD-2",
+      "name": "Mountain View",
+      "price": 30000,
+      "daily": 2400,
+      "total": 72000,
+      "days": 30
+    },
+    {
+      "id": "PROD-3",
+      "name": "Ocean View",
+      "price": 50000,
+      "daily": 4000,
+      "total": 120000,
+      "days": 30
+    },
+    {
+      "id": "PROD-4",
+      "name": "Executive Room",
+      "price": 115000,
+      "daily": 9200,
+      "total": 294400,
+      "days": 32
+    },
+    {
+      "id": "PROD-5",
+      "name": "Deluxe Room",
+      "price": 250000,
+      "daily": 32500,
+      "total": 650000,
+      "days": 20
+    },
+    {
+      "id": "PROD-6",
+      "name": "Sunset View",
+      "price": 370000,
+      "daily": 55500,
+      "total": 999000,
+      "days": 18
+    },
+    {
+      "id": "PROD-7",
+      "name": "Family Suite",
+      "price": 550000,
+      "daily": 0,
+      "total": 1650000,
+      "days": 20
+    },
+    {
+      "id": "PROD-8",
+      "name": "Silver Suite",
+      "price": 775000,
+      "daily": 0,
+      "total": 2325000,
+      "days": 20
+    },
+    {
+      "id": "PROD-9",
+      "name": "Honeymoon Suite",
+      "price": 1650000,
+      "daily": 0,
+      "total": 4950000,
+      "days": 20
+    },
+    {
+      "id": "PROD-10",
+      "name": "Golden Suite",
+      "price": 3000000,
+      "daily": 540000,
+      "total": 9180000,
+      "days": 17
+    },
+    {
+      "id": "PROD-11",
+      "name": "Diamond Suite",
+      "price": 5000000,
+      "daily": 1000000,
+      "total": 10000000,
+      "days": 10
+    },
+    {
+      "id": "PROD-12",
+      "name": "Royal Suite",
+      "price": 8000000,
+      "daily": 1600000,
+      "total": 16000000,
+      "days": 10
+    },
+    {
+      "id": "PROD-13",
+      "name": "Presidential Suite",
+      "price": 12000000,
+      "daily": 3000000,
+      "total": 45000000,
+      "days": 15
+    }
+  ],
+  "users": [
+    {
+      "id": "USR-B5F0BCD17A6D24",
+      "phone": "256700000001",
+      "passwordHash": "beecf21e6f2a5506e540334ae03068b2e9843ccdeba65bd68fd9428168f3c232262e38af839ca75d3a3d4eecac009fa8bcd3fcd78257ced3c3ac632ced989c55",
+      "passwordSalt": "3b74d56fb9459c489e04b398e27aa7ed",
+      "referralCode": "E42A75ED",
+      "referredBy": null,
+      "wallet": 7100,
+      "totalEarned": 2100,
+      "createdAt": "2026-09-25T12:42:47.498Z",
+      "lastCheckin": null
+    }
+  ],
+  "purchases": [],
+  "transactions": [
+    {
+      "id": "TX-FD8DFA506C8452",
+      "userId": "USR-B5F0BCD17A6D24",
+      "type": "signup_bonus",
+      "amount": 2100,
+      "createdAt": "2026-09-25T12:42:47.498Z"
+    },
+    {
+      "id": "TX-4A2950751AD6D9",
+      "userId": "USR-B5F0BCD17A6D24",
+      "type": "admin_credit",
+      "amount": 5000,
+      "createdAt": "2026-09-25T12:42:53.606Z"
+    }
+  ],
+  "referrals": [],
+  "activity": [
+    {
+      "id": "ACT-9E70DAB022773D",
+      "userId": "USR-B5F0BCD17A6D24",
+      "type": "signup",
+      "createdAt": "2026-09-25T12:42:47.498Z"
+    },
+    {
+      "id": "ACT-8352F945794D3A",
+      "userId": "USR-B5F0BCD17A6D24",
+      "type": "admin_credit",
+      "amount": 5000,
+      "createdAt": "2026-09-25T12:42:53.606Z"
+    }
+  ],
+  "payments": [],
+  "withdrawals": []
+}
